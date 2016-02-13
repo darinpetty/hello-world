@@ -1,2 +1,2 @@
 # hello-world
-proove that I have this set up correctly
+prove that I have this set up correctly
